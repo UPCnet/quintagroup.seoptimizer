@@ -1,7 +1,7 @@
 Changelog
 =========
 
-99.9 (unreleased)
+99.9 (2015-09-28)
 -----------------
 
 * UPCnet internal release
