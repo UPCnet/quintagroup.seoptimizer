@@ -1,6 +1,12 @@
 Changelog
 =========
 
+99.9 (unreleased)
+-----------------
+
+* UPCnet internal release
+
+
 4.3 (2013-09-18)
 ----------------
 
@@ -12,7 +18,7 @@ Changelog
 
 * Fixed compatibility with Plone 4.3.x [ktarasz]
 
-* Fixed code for pep8 and pyflakes [kroman0,ktarasz] 
+* Fixed code for pep8 and pyflakes [kroman0,ktarasz]
 
 * Fixed classifiers and keywords [kroman0]
 
